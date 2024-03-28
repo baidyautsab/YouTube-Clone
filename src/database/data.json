@@ -1,0 +1,32 @@
+{
+  "Admin": [
+    {
+      "id": "b250",
+      "name": "Utsab Baidya",
+      "phone": "8343838660",
+      "email": "utsab.baidya.20@gmail.com",
+      "password": "utsab@123"
+    },
+    {
+      "id": "984e",
+      "name": "Biren Mouriya",
+      "phone": "6533021542",
+      "email": "biren123@gmial.com",
+      "password": "biren123"
+    },
+    {
+      "id": "22e8",
+      "name": "Rishabh Narayan",
+      "phone": "8454856125",
+      "email": "rishabh2001@gmail.com",
+      "password": "ankita@123"
+    },
+    {
+      "id": "200f",
+      "name": "Prasun Mukharjee",
+      "phone": "5485456240",
+      "email": "prasun.mukharjee",
+      "password": "prasun123"
+    }
+  ]
+}
