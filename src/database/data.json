@@ -27,6 +27,20 @@
       "phone": "5485456240",
       "email": "prasun.mukharjee",
       "password": "prasun123"
+    },
+    {
+      "id": "b737",
+      "name": "Shibhdeep Kashid",
+      "phone": "8485758256",
+      "email": "shibhdeep2001@gmail.com",
+      "password": "shibhdeep12"
+    },
+    {
+      "id": "f927",
+      "name": "Ritik Kumar",
+      "phone": "6598754215",
+      "email": "ritik2000@gmail.com",
+      "password": "ritik123"
     }
   ]
 }

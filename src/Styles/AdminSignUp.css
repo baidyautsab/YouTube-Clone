@@ -5,9 +5,15 @@
     align-items: center;
     flex-direction: column;
 }
-form{
+.adminSignUp form{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+.adminSignUp label{
+    margin-right: 30px;
+}
+select{
+    height: 40px;
 }
