@@ -11,17 +11,34 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    /* height: 300px; */
+}
+.coder{
     height: 300px;
+    filter: drop-shadow(10px 10px 10px grey);
+    margin-bottom: 30px;
 }
 .landingLink{
     margin: 0px 10px;
     background: linear-gradient(rgb(0, 255, 251), rgb(255, 0, 225));
     text-decoration: none;
     border-radius: 20px;
-    width: 250px;
+    width: 220px;
+    height: 70px;
     color: white;
     box-shadow: 2px 3px 8px grey;
     transition: 1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.landingLink span{
+    position: relative;
+    margin-top: 58px;
+}
+.landing-icon{
+    height: 40px;
+    width: 40px;
 }
 .landingLink:hover{
     transform: scale(1.05);

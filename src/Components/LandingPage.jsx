@@ -1,19 +1,20 @@
 import { Link } from "react-router-dom";
-import adminimg from "../Images/admin_lock.png";
-import userimg from "../Images/user-lock.png";
+import { FaUserCircle } from "react-icons/fa";
+import { RiAdminFill } from "react-icons/ri";
+import coder from '../Images/coder1-removebg-preview.png'
 import "../Styles/Landingpage.css";
 
 const LandingPage = () => {
   return (
     <div className="landingpage">
-        <h1>Please Login for further use!</h1>
+      <img className="coder" src={coder} alt="" />
       <div className="display">
         <Link className="landingLink" to="/adminlogin">
-          <img src={adminimg} alt="" />
+          <RiAdminFill className="landing-icon" />
           <span>Admin</span>
-        </Link> 
+        </Link>
         <Link className="landingLink" to="/userlogin">
-          <img src={userimg} alt="" />
+          <FaUserCircle className="landing-icon" />
           <span>User</span>
         </Link>
       </div>
