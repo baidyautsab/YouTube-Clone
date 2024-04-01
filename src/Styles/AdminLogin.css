@@ -12,6 +12,7 @@
     margin-bottom: 10px;
     font-size: 20px;
     border: none;
+    /* border-radius: 20px; */
     border-bottom: 2px solid black;
 }
 .admin input:focus{
@@ -25,9 +26,9 @@
     margin-right: 20px;
     margin-left: 70px;
 }
-button{
+.admin button{
     height: 6vh;
-    width: 31vw;
+    width: 30.5vw;
     background-color: crimson;
     color: white;
     font-size: 20px;
