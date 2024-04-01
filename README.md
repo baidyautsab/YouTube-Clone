@@ -1,4 +1,4 @@
-#YouTube Clone
+# YouTube Clone
 This is a single page web application build using react.
 
 1. First started the project with three component- LandingPage, AdminLogin, UserLogin.
