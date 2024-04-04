@@ -1,0 +1,12 @@
+.edit-videos{
+    margin: 0px;
+    padding: 0px;
+    height: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.edit-videos form{
+    margin-top: 0px;
+}

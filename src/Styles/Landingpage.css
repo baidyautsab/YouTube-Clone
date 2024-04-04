@@ -17,6 +17,11 @@
     height: 300px;
     filter: drop-shadow(10px 10px 10px grey);
     margin-bottom: 30px;
+    transition: transform 0.5s ease-in-out;
+    transform-style: preserve-3d;
+}
+.coder:hover {
+    transform: rotateY(180deg); 
 }
 .landingLink{
     margin: 0px 10px;

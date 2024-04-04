@@ -42,5 +42,87 @@
       "email": "ritik2000@gmail.com",
       "password": "ritik123"
     }
+  ],
+  "Videos": [
+    {
+      "name": "Daddy Yankee - Limbo (Video Oficial)",
+      "desc": "Daddy Yankee - Con Calma (Video Oficial)",
+      "address": "https://www.youtube.com/embed/6BTjG-dhf5s?si=RnnG4bFbElS-tzb7",
+      "like": "60000",
+      "view": "5548845",
+      "id": "2f03"
+    },
+    {
+      "id": "1638",
+      "name": "Glass Animals - Heat Waves (Official Video)",
+      "desc": "‘dreamland IRL’ is out. it’s about revisiting all the things we couldn’t do when we first released the album, now we can actually be with you all.",
+      "address": "https://www.youtube.com/embed/mRD0-GxqHVo?si=uEFU19xcOGXmcWjD",
+      "like": "845458",
+      "view": "4588858"
+    },
+    {
+      "id": "0aae",
+      "name": "Sam Smith, Kim Petras - Unholy ",
+      "desc": "Sam Smith, Kim Petras - Unholy ",
+      "address": "https://www.youtube.com/embed/Uq9gPaIzbe8?si=Fu4lYNJWWGu7xRMm",
+      "like": "320001",
+      "view": "4580015"
+    },
+    {
+      "id": "e0ea",
+      "name": "Freebot - Dame ft. Aneth (Official video)",
+      "desc": "✨\"DAME\"✨ is a song inspired by one of Abba's biggest hits \"Gimme Gimme Gimme\".",
+      "address": "https://www.youtube.com/embed/Qj-sDjXtrgc?si=niv4VmOj1mqFEcsX",
+      "like": "21540",
+      "view": "154522"
+    },
+    {
+      "id": "e755",
+      "name": "Sean Paul - No Lie ft. Dua Lipa",
+      "desc": "Official Music Video for No Lie performed by Sean Paul.",
+      "address": "https://www.youtube.com/embed/GzU8KqOY8YA?si=0WrGOgHvb6HqlPmG",
+      "like": "754821",
+      "view": "1225482"
+    },
+    {
+      "id": "ec9b",
+      "name": "Doja Cat - Woman (Official Video)",
+      "desc": "Doja Cat // Planet Her // The New Album Out Now",
+      "address": "https://www.youtube.com/embed/yxW5yuzVi8w?si=fVZlbvPn_jFtb5mt",
+      "like": "365842",
+      "view": "1254585"
+    },
+    {
+      "id": "fe5f",
+      "name": "Sandra N. - Monte Carlo (Official Video)",
+      "desc": "Written by Sandra N Produced by Pistol Cristian (Mr. Gun), Cristian Tarcea Video directed by Pistol Cristian, Isabela Dan Art by Loredvn",
+      "address": "https://www.youtube.com/embed/wimlQRRxxA4?si=qgHboLXoKXHxINN0",
+      "like": "36500",
+      "view": "548220"
+    },
+    {
+      "id": "d42b",
+      "name": "I'm A Mess- Bebe Rexha | Dytto | Dance Video",
+      "desc": "this one was really about the story for me, hoping you enjoy me making a mess and dancing around in it :) xoxoxoxo",
+      "address": "https://www.youtube.com/embed/nuEpNchGQ2Y?si=b0njUpM7MjPygTJx",
+      "like": "65842",
+      "view": "554820"
+    },
+    {
+      "id": "2bac",
+      "name": "Habibi - XZEEZ Remix (Amr Diab)",
+      "desc": "Habibi - XZEEZ Remix (Amr Diab)",
+      "address": "https://www.youtube.com/embed/UXdt9mmDiz0?si=ocINkt84ul7lC3fq",
+      "like": "97102",
+      "view": "215400"
+    },
+    {
+      "id": "7455",
+      "name": "Ploua - XZEEZ Remix (Mihaita Piticu)",
+      "desc": "Ploua - XZEEZ Remix (Mihaita Piticu)",
+      "address": "https://www.youtube.com/embed/0oKPHmdF3Vs?si=GSOaA-nXOp1AKz4A",
+      "like": "120145",
+      "view": "554201"
+    }
   ]
 }

@@ -21,7 +21,7 @@ function AdminNavbar() {
           <IoIosSettings style={{"fontSize": "23px"}}/>
         </Dropdown.Toggle>
         <Dropdown.Menu>
-          <Dropdown.Item href="#/action-1">Add Video</Dropdown.Item>
+          <Dropdown.Item href="/adminhomepage/addvideos">Add Video</Dropdown.Item>
           <Dropdown.Item href="#/action-2">Theme</Dropdown.Item>
           <Dropdown.Item href="#/action-3">Logout</Dropdown.Item>
         </Dropdown.Menu>
